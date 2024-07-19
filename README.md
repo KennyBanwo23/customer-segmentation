@@ -6,3 +6,5 @@ after-sales services are major factors driving the decline in this segment. The 
 conduct customer segmentation analysis to identify key customer groups, predict future 
 purchasing behaviours, and devise personalized customer experiences to improve customer 
 engagement and retention rates.
+
+This file also contain the Power BI visualization of the 4 clusters derived.
